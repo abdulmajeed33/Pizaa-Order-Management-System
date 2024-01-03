@@ -1,0 +1,2 @@
+Sql Related issues
+1.https://learn.microsoft.com/en-us/troubleshoot/sql/database-engine/database-file-operations/troubleshoot-os-4kb-disk-sector-size
