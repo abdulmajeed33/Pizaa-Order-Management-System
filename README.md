@@ -30,8 +30,8 @@ The Pizza Order Management System is a desktop application developed in C# using
 
 ## Screenshots
 
-![Screenshot 1](![image](https://github.com/abdulmajeed33/Pizaa-Order-Management-System/assets/99089185/abb3c2a3-6f40-4b6b-bc71-a039344c39ed)
-)
+![image](https://github.com/abdulmajeed33/Pizaa-Order-Management-System/assets/99089185/c658a6e9-742c-45ef-83b1-bd0fa7876df0)
+
 ## Getting Started
 
 To get started with the Pizza Order Management System, follow these steps:
